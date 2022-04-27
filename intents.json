@@ -1,0 +1,84 @@
+{"intents"}[
+    {   "tags" : "salutationBonjour",
+        "patterns" : ["Bonjour", "Bonsoir", "Hey", "Ça dit quoi l'équipe", "quoi de neuf",],    
+        "responses" :  ["Bonjour","Bonsoir", "Hey",],
+    },
+    {
+        "tags" : "salutationAuRevoir",
+        "patterns" : ["Au revoir", "Salut", "A la prochaine", "Ciao", "A plus",],
+        "responses" : ["Au revoir", "Merci de votre visite sur le chatbot de Ecole-logie", "A la prochaine", "A une prochaine"]
+    },
+    {
+        "tags" : "owner",
+        "patterns" : ["Qui t'as crée ?", "Qui t'as coder ?","Qui est ton propriétaire ?"],
+        "responses" : ["Mon créeateur est Antoine Theissen", "J'appartient a l'association Co  Energie"],
+     },
+     {
+         "tags" :"Question_1",
+         "patterns" :[],
+         "responses" :[],
+     },
+     {
+        "tags" :"Question_2",
+        "patterns" :[],
+        "responses" :[],
+    },
+    {
+        "tags" :"Question_3",
+        "patterns" :[],
+        "responses" :[],
+    },
+    {
+        "tags" :"Question_4",
+        "patterns" :[],
+        "responses" :[],
+    },
+    {
+        "tags" :"Question_5",
+        "patterns" :[],
+        "responses" :[],
+    },
+    {
+        "tags" :"Question_6",
+        "patterns" :[],
+        "responses" :[],
+    },
+    {
+        "tags" :"Question_7",
+        "patterns" :[],
+        "responses" :[],
+    },
+    {
+        "tags" :"Question_8",
+        "patterns" :[],
+        "responses" :[],
+    },
+    {
+        "tags" :"Question_9",
+        "patterns" :[],
+        "responses" :[],
+    },
+    {
+        "tags" :"Question_10",
+        "patterns" :[],
+        "responses" :[],
+    },
+    {
+        "tags" :"Question_11",
+        "patterns" :[],
+        "responses" :[],
+    },
+    {
+        "tags" :"Question_12",
+        "patterns" :[],
+        "responses" :[],
+    },
+    {
+        "tags" :"Question_13",
+        "patterns" :[],
+        "responses" :[],
+    },
+    
+    
+    
+]}
