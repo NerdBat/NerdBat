@@ -16,7 +16,7 @@ I got the best grade and i knew that i wanted to work as progrommaer. At the end
 
 ### Currently
 
-I have now 19 years old, i am in second year in my school. For juridic reasons i couldn't name them but i payd 7 890 € for making marketing and french classes that no one didn't care, I am now in intership for my last two years in this school. Anf fortunatly I start learning how to code by mylsef thanks to [OpenClassroom]('https://openclassrooms.com/') and all the official documentation online.
+I have now 20 years old, i am in second year in my school. For juridic reasons i couldn't name them but i payd 7 890 € for making marketing and french classes that no one didn't care, I am now in intership for my last two years in this school. Anf fortunatly I start learning how to code by mylsef thanks to [OpenClassroom]('https://openclassrooms.com/') and all the official documentation online.
 
 ### The Future
 
